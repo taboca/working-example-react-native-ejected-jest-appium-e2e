@@ -237,3 +237,9 @@ npm run test
 ```
 
 If you run into trouble please write, let's help each other.
+
+## References
+
+* https://github.com/taboca/doc-js-example-create-react-native-and-e2e-jest-appium
+
+* https://medium.com/front-end-weekly/how-to-do-end-to-end-e2e-testing-for-react-native-android-using-jest-and-appium-27d75e4d831b
