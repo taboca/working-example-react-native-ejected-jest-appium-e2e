@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "appium": "appium",
+    "appium:doctor": "appium-doctor",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-native": "0.57.8"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.3.1",
+    "appium": "^1.10.1",
+    "appium-doctor": "^1.8.0",
+    "babel-preset-expo": "^5.0.0",
+    "expo": "^32.0.4",
+    "jest": "^24.1.0",
+    "wd": "^1.11.1"
+  },
+  "private": true
+}

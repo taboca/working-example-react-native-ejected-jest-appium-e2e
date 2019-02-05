@@ -1,0 +1,4 @@
+#Tue Feb 05 18:03:51 BRST 2019
+base.0=/Users/taboca/Desktop/all/002_atividades/270_nettec_taboca_e2e/git_evangelism_rn_ejected_jest_appium/MyTestApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
